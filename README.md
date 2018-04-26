@@ -14,7 +14,5 @@ Escornabot Diversity Keypad es un proyecto que pretende acercar la robótica edu
 * Electrónica **TO DO**
   * Versión en breadboard
   * Versión PCB
-* Caja de la botonera en DM cortado a láser **TO DO**
-* Botones impresos **TO DO**
-  * Con flechas en relieve
-  * ¿Con escritura en Braille?
+* Botones CDs reciclados
+  
