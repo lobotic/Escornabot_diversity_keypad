@@ -26,8 +26,8 @@ Escornabot Diversity Keypad es un proyecto que pretende acercar la robótica edu
     <td><img align="center" width="125" height="125" src="https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_All%20copy.jpg" </td>
     <td><img align="center" width="125" height="125" src="https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_GO.jpg" </td>
     <td><img align="center" width="125" height="125" src="https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_move.jpg" 
-  
- <table> 
+
+  </table> 
 
   * [Go Button][GB]
   * [Move Button][MB]
