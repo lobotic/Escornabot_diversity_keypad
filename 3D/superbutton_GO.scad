@@ -54,9 +54,9 @@ color([1,0.8,0]) {
       }
     }
     difference() {
-      cylinder(r1=7.2, r2=7.2, h=8.2, center=false);
+      cylinder(r1=7.2, r2=7.2, h=8.2, center=true);
 
-      cylinder(r1=6.2, r2=6.2, h=8.2, center=false);
+      cylinder(r1=6.2, r2=6.2, h=8.2, center=true);
     }
   }
 }
