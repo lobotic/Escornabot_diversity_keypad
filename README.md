@@ -29,8 +29,9 @@ Escornabot Diversity Keypad es un proyecto que pretende acercar la robótica edu
 
   </table> 
 <tr>
-  * [Go Button][GB]
-  * [Move Button][MB]
+
+* [Go Button][GB]
+* [Move Button][MB]
  
  
  
