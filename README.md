@@ -40,7 +40,7 @@ Move Button V2 tiene los enganches más pequeños para ensamblar mejor con impre
 Como el pad se supone que se usará sobre una superfici plana, no es tan necesario un ajuste muy firme, por lo que se recomienda esta versión.
  
  
-## Cráditos y agradecimientos
+## Créditos y agradecimientos
 To Do
  
  [GB]:https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_GO.stl
