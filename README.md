@@ -26,14 +26,17 @@ Escornabot Diversity Keypad es un proyecto que pretende acercar la robótica edu
     <td><img align="center" width="125" height="125" src="https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_All%20copy.jpg" </td>
     <td><img align="center" width="125" height="125" src="https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_GO.jpg" </td>
     <td><img align="center" width="125" height="125" src="https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_move.jpg" 
-
-  </table> 
 <tr>
+  </table> 
+
 
 * [Go Button][GB]
 * [Move Button][MB]
- 
+* [Move Button V2][MB2]
+Move Button V2 tiene los enganches más pequeños para ensamblar mejor con impresiones hechas con impresoras menos precisas.
+Como el pad se supone que se usará sobre una superfici plana, no es tan necesario un ajuste muy firme, por lo que se recomienda esta versión.
  
  
  [GB]:https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_GO.stl
  [MB]:https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_Move.stl
+ [MB2]:https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_move_v2.stl
