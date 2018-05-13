@@ -14,6 +14,9 @@ Escornabot Diversity Keypad es un proyecto que pretende acercar la robótica edu
   - To Do
 * Botones CDs reciclados
 [![Pulsador CD](https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/pulsadores.png)](https://www.youtube.com/watch?v=GIWTpx9nKFQ "Pulsador CD")
+
+
+## 3D
 * Pads para botón de CD
 
 <table> 
@@ -36,6 +39,9 @@ Escornabot Diversity Keypad es un proyecto que pretende acercar la robótica edu
 Move Button V2 tiene los enganches más pequeños para ensamblar mejor con impresiones hechas con impresoras menos precisas.
 Como el pad se supone que se usará sobre una superfici plana, no es tan necesario un ajuste muy firme, por lo que se recomienda esta versión.
  
+ 
+## Cráditos y agradecimientos
+To Do
  
  [GB]:https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_GO.stl
  [MB]:https://github.com/lobotic/Escornabot_diversity_keypad/blob/master/3D/superbutton_Move.stl
